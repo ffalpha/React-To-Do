@@ -1,6 +1,6 @@
 import React from "react";
 import { render } from "react-dom";
-import Layout from "./layout/Layout";
+import Layout from "./hoc/layout/Layout";
 
 const App = () => {
   return <Layout>sa</Layout>;

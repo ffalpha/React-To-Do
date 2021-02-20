@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../components/Navbar/Navbar";
+import Navbar from "../../components/Navigation/Navbar/Navbar";
 import styled from "styled-components";
 
 const MainWarpper = styled.div`
