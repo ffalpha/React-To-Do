@@ -27,6 +27,7 @@ const Navbar = () => {
     <FixedWrapper>
       <Container>
         <Logo />
+        <NavItems />
       </Container>
     </FixedWrapper>
   );
