@@ -9,7 +9,8 @@ const MainWarpper = styled.div`
 `;
 const Layout = ({ children }) => (
   <>
-    <Navbar></Navbar>
+    <Navbar />
+    <SideDrawer />
     <MainWarpper>{children}</MainWarpper>
   </>
 );
